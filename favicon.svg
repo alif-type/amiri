@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg2983"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="/home/khaled/vc/fonts/amiri/favicon16.png"
+   inkscape:export-xdpi="11.25"
+   inkscape:export-ydpi="11.25">
+  <defs
+     id="defs2985" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.2378829"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1280"
+     inkscape:window-height="770"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2988">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,112)">
+    <g
+       transform="matrix(4.0594524,0,0,3.9414183,-0.08376662,-47.663542)"
+       style="font-size:43.0337677px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="text2991">
+      <path
+         d="m 28.431385,2.606872 c -0.315222,1.015621 -0.770494,1.716039 -1.365818,2.101259 -5.393256,1.891142 -12.064744,5.515808 -20.0144841,10.87401 -0.7004306,0.455274 -1.278276,0.455274 -1.733538,0 C 4.0918021,14.356409 5.7027651,11.887433 10.150439,8.175207 4.3019277,6.038937 1.6228262,3.184731 2.1131261,-0.38742069 2.4633287,-3.3291627 4.6696475,-7.1464447 8.7320895,-11.839278 c 2.4864725,-2.836668 4.5877295,-4.255015 6.3037745,-4.255048 3.677178,0.03505 5.340673,2.048757 4.990487,6.041118 -0.140107,1.4358841 -0.61289,2.8192111 -1.418348,4.1499847 -0.770484,1.2957964 -1.663518,1.4709012 -2.679104,0.5253144 -3.221947,-3.0818208 -5.533329,-3.6421558 -6.9341523,-1.6810064 -1.5409348,2.2063418 -0.2801812,4.2900876 3.7822653,6.25124301 2.486468,1.1907286 5.375696,1.4884066 8.667689,0.8930348 0.94554,-0.175088 2.06621,-0.630361 3.362014,-1.36581781 1.295744,-0.7704434 2.381394,-1.243226 3.25695,-1.4183494 1.365784,-0.2101068 1.768524,0.6128852 1.208222,2.46897841 L 28.431385,2.606872"
+         style="font-size:53.79220963px;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:'أميري';-inkscape-font-specification:'أميري Medium'"
+         id="path2996"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
