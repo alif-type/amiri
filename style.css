@@ -13,7 +13,13 @@ body {
    text-align: justify;
 }
 
-h1 {
+@media (max-width: 800px) {
+   body {
+      width: 100%;
+   }
+}
+
+h1, h2 {
    font-size: 16pt;
    font-weight: 400;
 }
@@ -40,14 +46,14 @@ code {
    -moz-hyphens: auto;
    -webkit-hyphens: auto;
    direction: ltr;
-   line-height: 1.21;
+   line-height: 1.24;
    float: left;
    left: 5px;
 }
 
 .column {
    position: relative;
-   width: 375px;
+   width: 48%;
 }
 
 .banner {
@@ -59,6 +65,30 @@ code {
    margin: 10px 0;
    padding-top: 267px;
    padding-bottom: 53px;
+}
+
+@media (max-width: 600px) {
+   .column {
+      width: 98%;
+   }
+
+   .ar, .en {
+      float: none;
+      margin: 0 auto;
+      right: 0px;
+      left: 0px;
+   }
+
+   .banner {
+      background-image: none;
+      border: none;
+      padding: 0px;
+      margin: 5px 0;
+   }
+
+   h1 {
+      text-align: center;
+   }
 }
 
 .banner .ar img {
