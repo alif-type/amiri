@@ -61,6 +61,10 @@ code {
    padding-bottom: 53px;
 }
 
+.banner .ar img {
+   transform: scaleX(-1);
+}
+
 span.TEX {
    letter-spacing: -0.125em;
 }
