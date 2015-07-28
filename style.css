@@ -1,4 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Amiri:400,700,400italic&subset=latin,arabic);
+@import url(http://fonts.googleapis.com/css?family=Amiri:400,700&subset=latin,arabic);
+@import url(http://fonts.googleapis.com/css?family=Amiri:400italic&subset=latin);
 
 html {
    color: #404040;
