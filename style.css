@@ -73,13 +73,13 @@ span.TEX span.E {
    top: 0.5ex;
 }
 
-@media screen and (max-device-width: 800px) {
+@media screen and (max-width: 800px) {
    body {
       width: 100%;
    }
 }
 
-@media screen and (max-device-width: 500px) {
+@media screen and (max-width: 500px) {
    .column {
       width: 98%;
    }
