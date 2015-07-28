@@ -79,7 +79,7 @@ span.TEX span.E {
    }
 }
 
-@media screen and (max-device-width: 600px) {
+@media screen and (max-device-width: 500px) {
    .column {
       width: 98%;
    }
