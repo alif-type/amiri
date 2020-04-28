@@ -1,5 +1,23 @@
-@import url(https://fonts.googleapis.com/css?family=Amiri:400,700&subset=latin,arabic);
-@import url(https://fonts.googleapis.com/css?family=Amiri:400italic&subset=latin);
+@font-face {
+  font-family: Amiri;
+  font-style: normal;
+  font-weight: 400;
+  src: url('Amiri-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Amiri;
+  font-style: normal;
+  font-weight: 700;
+  src: url('Amiri-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Amiri;
+  font-style: italic;
+  font-weight: 400;
+  src: url('Amiri-Slanted.ttf') format('truetype');
+}
 
 html {
    color: #404040;
