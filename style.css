@@ -2,21 +2,21 @@
   font-family: Amiri;
   font-style: normal;
   font-weight: 400;
-  src: url('Amiri-Regular.ttf') format('truetype');
+  src: url('Amiri-Regular.otf');
 }
 
 @font-face {
   font-family: Amiri;
   font-style: normal;
   font-weight: 700;
-  src: url('Amiri-Bold.ttf') format('truetype');
+  src: url('Amiri-Bold.otf');
 }
 
 @font-face {
   font-family: Amiri;
   font-style: italic;
   font-weight: 400;
-  src: url('Amiri-Slanted.ttf') format('truetype');
+  src: url('Amiri-Slanted.otf');
 }
 
 html {
